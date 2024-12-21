@@ -1,6 +1,6 @@
 # CamPhish
 Ambil gambar dari kamera depan ponsel atau webcam PC target hanya dengan mengirimkan sebuah tautan.
-![CamPhish](https://raw.githubusercontent.com/Maxz-09/CamPhish/refs/heads/master/logo.png)
+![CamPhish](https://raw.githubusercontent.com/Maxz-09/CamPhish/refs/heads/main/logo.png)
 
 # Apa itu CamPhish?
 CamPhish adalah alat yang digunakan untuk mengambil gambar dari kamera depan ponsel atau webcam PC target. Alat ini meng-host situs web palsu menggunakan server PHP bawaan dan menggunakan Savero untuk menghasilkan tautan yang dapat diteruskan ke target melalui internet. Situs web tersebut meminta izin kamera, dan jika target mengizinkannya, alat ini akan mengambil gambar dari perangkat target.
